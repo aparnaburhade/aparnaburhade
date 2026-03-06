@@ -60,9 +60,11 @@ Built a dashboard that analyzes call transcripts and provides structured summari
 
 ## 📈 GitHub Stats
 
-![Aparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparnaburhade&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aparnaburhade&layout=compact&theme=tokyonight)
+![Aparna's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aparnaburhade&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aparnaburhade&layout=compact&theme=tokyonight)
 
 ---
 
