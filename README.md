@@ -60,16 +60,16 @@ Built a dashboard that analyzes call transcripts and provides structured summari
 
 ## 📈 GitHub Stats
 
-![Aparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Aparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparnaburhade&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aparnaburhade&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOURLINK  
-Email: your-email@example.com
+LinkedIn: https://www.linkedin.com/in/aparna-mahendrakumar-burhade-0819841b2/
+Email: aparnaburhade@gmail.com
 
 ---
 
