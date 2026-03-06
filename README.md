@@ -61,9 +61,6 @@ CLI tool that ingests documents, generates embeddings, and retrieves relevant co
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aparnaburhade&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats
-
-[![Aparna's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aparnaburhade&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
