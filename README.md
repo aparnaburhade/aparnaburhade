@@ -1,4 +1,6 @@
-# Hi, I'm Aparna 👋
+# <h1>
+  Hi, I'm Aparna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 Software Engineer focused on building scalable backend systems, automation workflows, and AI-driven applications.
 
