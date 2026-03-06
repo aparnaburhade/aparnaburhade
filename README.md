@@ -58,8 +58,6 @@ Built a dashboard that analyzes call transcripts and provides structured summari
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![Aparna's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aparnaburhade&show_icons=true&theme=tokyonight)
