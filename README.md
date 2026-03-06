@@ -53,9 +53,6 @@ AI assistant that analyzes financial data and generates insights using agentic w
 ### 🔎 RAG Document Search
 CLI tool that ingests documents, generates embeddings, and retrieves relevant context for questions.
 
-### 📊 Call Summary Dashboard
-Built a dashboard that analyzes call transcripts and provides structured summaries for clients to review conversations efficiently.
-
 ---
 
 ## 📊 GitHub Stats
