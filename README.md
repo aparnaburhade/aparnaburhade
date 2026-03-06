@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;AI+Enthusiast;Automation+Builder&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;AI+Enthusiast;Automation+Builder&left=true&width=500&height=45">
 </p>
 
 Software Engineer focused on building scalable backend systems, automation workflows, and AI-driven applications.
