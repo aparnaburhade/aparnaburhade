@@ -58,6 +58,7 @@ AI assistant that analyzes financial data and generates insights using agentic w
 
 ### 🔎 EdgeProbe
 EdgeProbe is an AI evaluation tool that analyzes LLM-generated responses at a claim level to detect possible hallucinations.
+
 ---
 
 ## 📊 GitHub Stats
